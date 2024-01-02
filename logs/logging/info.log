@@ -1,0 +1,47 @@
+[2024-01-02 14:41:55,892][main][INFO][com.example.springbootlogdemo.SpringbootLogDemoApplication:55] Starting SpringbootLogDemoApplication using Java 17.0.9 on DESKTOP-P01MCGG with PID 15936 (D:\weimin\springboot-log-demo\target\classes started by admin in D:\weimin\springboot-log-demo)
+[2024-01-02 14:41:55,907][main][INFO][com.example.springbootlogdemo.SpringbootLogDemoApplication:631] No active profile set, falling back to 1 default profile: "default"
+[2024-01-02 14:41:57,742][main][INFO][org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] Tomcat initialized with port(s): 8080 (http)
+[2024-01-02 14:41:57,770][main][INFO][org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-01-02 14:41:57,773][main][INFO][org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+[2024-01-02 14:41:57,774][main][INFO][org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.69]
+[2024-01-02 14:41:58,038][main][INFO][org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+[2024-01-02 14:41:58,038][main][INFO][org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] Root WebApplicationContext: initialization completed in 1927 ms
+[2024-01-02 14:41:58,424][main][INFO][org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping:53] Adding welcome page: class path resource [static/index.html]
+[2024-01-02 14:41:58,618][main][INFO][org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8080"]
+[2024-01-02 14:41:58,669][main][INFO][org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] Tomcat started on port(s): 8080 (http) with context path ''
+[2024-01-02 14:41:58,682][main][INFO][com.example.springbootlogdemo.SpringbootLogDemoApplication:61] Started SpringbootLogDemoApplication in 3.448 seconds (JVM running for 4.686)
+[2024-01-02 14:42:23,353][http-nio-8080-exec-1][INFO][org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-01-02 14:42:23,353][http-nio-8080-exec-1][INFO][org.springframework.web.servlet.DispatcherServlet:525] Initializing Servlet 'dispatcherServlet'
+[2024-01-02 14:42:23,357][http-nio-8080-exec-1][INFO][org.springframework.web.servlet.DispatcherServlet:547] Completed initialization in 3 ms
+[2024-01-02 14:46:56,167][main][INFO][com.example.springbootlogdemo.SpringbootLogDemoApplication:55] Starting SpringbootLogDemoApplication using Java 17.0.9 on DESKTOP-P01MCGG with PID 5696 (D:\weimin\springboot-log-demo\target\classes started by admin in D:\weimin\springboot-log-demo)
+[2024-01-02 14:46:56,192][main][INFO][com.example.springbootlogdemo.SpringbootLogDemoApplication:631] No active profile set, falling back to 1 default profile: "default"
+[2024-01-02 14:46:58,031][main][INFO][org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] Tomcat initialized with port(s): 8080 (http)
+[2024-01-02 14:46:58,052][main][INFO][org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-01-02 14:46:58,053][main][INFO][org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+[2024-01-02 14:46:58,054][main][INFO][org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.69]
+[2024-01-02 14:46:58,318][main][INFO][org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+[2024-01-02 14:46:58,319][main][INFO][org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] Root WebApplicationContext: initialization completed in 2046 ms
+[2024-01-02 14:46:58,758][main][INFO][org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping:53] Adding welcome page: class path resource [static/index.html]
+[2024-01-02 14:46:58,983][main][INFO][org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8080"]
+[2024-01-02 14:46:59,032][main][INFO][org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] Tomcat started on port(s): 8080 (http) with context path ''
+[2024-01-02 14:46:59,046][main][INFO][com.example.springbootlogdemo.SpringbootLogDemoApplication:61] Started SpringbootLogDemoApplication in 3.449 seconds (JVM running for 4.862)
+[2024-01-02 14:47:04,682][http-nio-8080-exec-1][INFO][org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-01-02 14:47:04,682][http-nio-8080-exec-1][INFO][org.springframework.web.servlet.DispatcherServlet:525] Initializing Servlet 'dispatcherServlet'
+[2024-01-02 14:47:04,685][http-nio-8080-exec-1][INFO][org.springframework.web.servlet.DispatcherServlet:547] Completed initialization in 2 ms
+[2024-01-02 14:47:04,710][http-nio-8080-exec-1][INFO][com.example.springbootlogdemo.demos.web.BasicController:20] com.example.springbootlogdemo.demos.web.User@29bfbf4
+[2024-01-02 14:49:19,960][main][INFO][com.example.springbootlogdemo.SpringbootLogDemoApplication:55] Starting SpringbootLogDemoApplication using Java 17.0.9 on DESKTOP-P01MCGG with PID 21024 (D:\weimin\springboot-log-demo\target\classes started by admin in D:\weimin\springboot-log-demo)
+[2024-01-02 14:49:19,997][main][INFO][com.example.springbootlogdemo.SpringbootLogDemoApplication:631] No active profile set, falling back to 1 default profile: "default"
+[2024-01-02 14:49:22,306][main][INFO][org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] Tomcat initialized with port(s): 8080 (http)
+[2024-01-02 14:49:22,344][main][INFO][org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-01-02 14:49:22,346][main][INFO][org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+[2024-01-02 14:49:22,347][main][INFO][org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.69]
+[2024-01-02 14:49:22,801][main][INFO][org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+[2024-01-02 14:49:22,802][main][INFO][org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292] Root WebApplicationContext: initialization completed in 2713 ms
+[2024-01-02 14:49:23,343][main][INFO][org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping:53] Adding welcome page: class path resource [static/index.html]
+[2024-01-02 14:49:23,708][main][INFO][org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8080"]
+[2024-01-02 14:49:23,929][main][INFO][org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] Tomcat started on port(s): 8080 (http) with context path ''
+[2024-01-02 14:49:23,941][main][INFO][com.example.springbootlogdemo.SpringbootLogDemoApplication:61] Started SpringbootLogDemoApplication in 4.709 seconds (JVM running for 6.429)
+[2024-01-02 14:49:44,771][http-nio-8080-exec-1][INFO][org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-01-02 14:49:44,772][http-nio-8080-exec-1][INFO][org.springframework.web.servlet.DispatcherServlet:525] Initializing Servlet 'dispatcherServlet'
+[2024-01-02 14:49:44,773][http-nio-8080-exec-1][INFO][org.springframework.web.servlet.DispatcherServlet:547] Completed initialization in 1 ms
+[2024-01-02 14:49:44,805][http-nio-8080-exec-1][INFO][com.example.springbootlogdemo.demos.web.BasicController:20] User{name='theonefx', age=666}

@@ -1,0 +1,2 @@
+[2024-01-02 14:47:04,711][http-nio-8080-exec-1][WARN][com.example.springbootlogdemo.demos.web.BasicController:22] com.example.springbootlogdemo.demos.web.User@29bfbf4
+[2024-01-02 14:49:44,806][http-nio-8080-exec-1][WARN][com.example.springbootlogdemo.demos.web.BasicController:22] User{name='theonefx', age=666}
